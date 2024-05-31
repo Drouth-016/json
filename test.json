@@ -1,0 +1,400 @@
+[
+    [
+        "Hours Played",
+        "Current Players",
+        "Peak Players",
+        "game",
+        "year"   
+
+    ],
+    [
+        23065691,
+        "Counter-Strike 2",
+        1,
+        1,
+        1
+
+    ],
+    [
+        12489608,
+        "Dota 2",
+        1,
+        1,
+        1
+    ],
+    [
+        7056786,
+        "PUBG: BATTLEGROUNDS",
+        1,
+        1,
+        1
+        
+    ],
+    [
+        4113080,
+        "Apex Legends",
+        1,
+        1,
+        1
+    ],
+    [
+        2410102,
+        "NARAKA: BLADEPOINT",
+        1,
+        1,
+        1
+    ],
+    [
+        1454294,
+        "Team Fortress 2",
+        1,
+        1,
+        1
+    ],
+    [
+        2524905,
+        "Grand Theft Auto V",
+        1,
+        1,
+        1
+    ],
+    [
+        1951128,
+        "Wallpaper Engine",
+        1,
+        1,
+        1
+        
+    ],
+    [
+        1521370,
+        "Rust",
+        1,
+        1,
+        1
+        
+
+
+    ],
+    [
+        2017296,
+        "Destiny 2",
+        1,
+        1,
+        1
+        
+    ],
+    [
+        1959915,
+        "Call of Duty®",
+        1,
+        1,
+        1
+    ],
+    [
+        1151255,
+        "Crab Game",
+        1,
+        1,
+        1
+        
+    ],
+    [
+        1242683,
+        "Unturned",
+        1,
+        1,
+        1
+        
+    ],
+    [
+        2699552,
+        "Stardew Valley",
+        1,
+        1,
+        1
+        
+    ],
+    [
+        931593,
+        "ELDEN RING",
+        1,
+        1,
+        1
+        
+    ],
+    [
+        1454068,
+        "War Thunder",
+        1,
+        1,
+        1
+        
+    ],
+    [
+        1792462,
+        "Tom Clancy's Rainbow Six Siege",
+        1,
+        1,
+        1
+        
+    ],
+    [
+        1518403,
+        "Baldur's Gate 3",
+        1,
+        1,
+        1
+        
+    ],
+    [
+        1238028,
+        "Football Manager 2024",
+        1,
+        1,
+        1
+    ],
+    [
+        2515461,
+        "Fallout 4",
+        1,
+        1,
+        1
+        
+    ],
+    [
+        1323951,
+        "Governor of Poker 3",
+        1,
+        1,
+        1
+       
+    ],
+    [
+        1225325,
+        "Warframe",
+        1,
+        1,
+        1
+        
+    ],
+    [
+        1100482,
+        "Sid Meier's Civilization VI",
+        1,
+        1,
+        1
+        
+    ],
+    [
+        647503,
+        "PAYDAY 2",
+        1,
+        1,
+        1
+        
+    ],
+    [
+        1120684,
+        "Monster Hunter: World",
+        1,
+        1,
+        1
+        
+    ],
+    [
+        21390536,
+        "Counter-Strike 2",
+        2,
+        2,
+        2
+        
+    ],
+    [
+        11334035,
+        "Dota 2",
+        2,
+        2,
+        2
+        
+    ],
+    [
+        6554822,
+        "PUBG: BATTLEGROUNDS",
+        2,
+        2,
+        2
+        
+    ],
+    [
+        3898472,
+        "Apex Legends",
+        2,
+        2,
+        2
+        
+    ],
+    [
+        2365082,
+        "NARAKA: BLADEPOINT",
+        2,
+        2,
+        2
+        
+    ],
+    [
+        1449119,
+        "Team Fortress 2",
+        2,
+        2,
+        2
+    ],
+    [
+        2275038,
+        "Grand Theft Auto V",
+        2,
+        2,
+        2
+        
+    ],
+    [
+        1866885,
+        "Wallpaper Engine",
+        2,
+        2,
+        2
+        
+    ],
+    [
+        1557289,
+        "Rust",
+        2,
+        2,
+        2
+        
+    ],
+    [
+        1630702,
+        "Destiny 2",
+        2,
+        2,
+        2
+        
+    ],
+    [
+        1942519,
+        "Call of Duty®",
+        2,
+        2,
+        2
+        
+    ],
+    [
+        1543301,
+        "Crab Game",
+        2,
+        2,
+        2
+        
+    ],
+    [
+        1211500,
+        "Unturned",
+        2,
+        2,
+        2
+        
+    ],
+    [
+        2450954,
+        "Stardew Valley",
+        2,
+        2,
+        2
+        
+    ],
+    [
+        824047,
+        "ELDEN RING",
+        2,
+        2,
+        2
+    ],
+    [
+        1298050,
+        "War Thunder",
+        2,
+        2,
+        2
+    ],
+    [
+        1543905,
+        "Tom Clancy's Rainbow Six Siege",
+        2,
+        2,
+        2
+        
+    ],
+    [
+        1309288,
+        "Baldur's Gate 3",
+        2,
+        2,
+        2
+    ],
+    [
+        1117777,
+        "Football Manager 2024",
+        2,
+        2,
+        2
+        
+    ],
+    [
+        2193050,
+        "Fallout 4",
+        2,
+        2,
+        2
+        
+    ],
+    [
+        1004391,
+        "Governor of Poker 3",
+        2,
+        2,
+        2
+        
+    ],
+    [
+        1183218,
+        "Warframe",
+        2,
+        2,
+        2
+        
+    ],
+    [
+        1013928,
+        "Sid Meier's Civilization VI",
+        2,
+        2,
+        2
+        
+    ],
+    [
+        612883,
+        "PAYDAY 2",
+        2,
+        2,
+        2
+        
+    ],
+    [
+        1027705,
+        "Monster Hunter: World",
+        2,
+        2,
+        2
+    ]
+]
